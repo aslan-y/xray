@@ -68,7 +68,7 @@ cd xray-network-toolkit</code></pre>
         </section>
     </main>
     <footer>
-        <p>Developed with ❤️ by <a href="https://github.com/CyberGameX">CyberSeC</a></p>
+        <p>Developed with ❤️ by <a href="https://github.com/aslan-y">aslan-y</a></p>
     </footer>
 </body>
 </html>
