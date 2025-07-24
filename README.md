@@ -50,7 +50,7 @@ cd xray-network-toolkit</code></pre>
         </section>
         <section id="screenshots">
             <h2>Screenshots</h2>
-            <img src="https://github.com/aslan-y/xray-network-toolkit/blob/main/xray_main_menu.png?raw=true?" alt="Main Menu">
+            <img src="https://github.com/aslan-y/xray/blob/main/xray_main_menu.png" alt="Main Menu">
             <img src="https://github.com/aslan-y/xray-network-toolkit/blob/main/portscanner.png?raw=true?" alt="Port Scanner">
         </section>
         <section id="contributing">
