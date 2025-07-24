@@ -8,7 +8,6 @@
 <body>
     <header>
         <h1>Xray - Your Network Toolkit</h1>
-        <img src="https://via.placeholder.com/800x200.png?text=Xray+-+Your+Network+Toolkit" alt="Xray Banner">
     </header>
     <main>
         <section id="overview">
@@ -51,8 +50,8 @@ cd xray-network-toolkit</code></pre>
         </section>
         <section id="screenshots">
             <h2>Screenshots</h2>
-            <img src="https://github.com/CyberGameX/xray-network-toolkit/blob/main/xray_main_menu.png?raw=true?" alt="Main Menu">
-            <img src="https://github.com/CyberGameX/xray-network-toolkit/blob/main/portscanner.png?raw=true?" alt="Port Scanner">
+            <img src="https://github.com/aslan-y/xray-network-toolkit/blob/main/xray_main_menu.png?raw=true?" alt="Main Menu">
+            <img src="https://github.com/aslan-y/xray-network-toolkit/blob/main/portscanner.png?raw=true?" alt="Port Scanner">
         </section>
         <section id="contributing">
             <h2>Contributing</h2>
