@@ -1,0 +1,12 @@
+ipinfo
+asyncio ; built-in, no install needed
+os ; built-in, no install needed
+json ; built-in, no install needed
+ipaddress ; built-in, no install needed
+argparse ; built-in, no install needed
+socket ; built-in, no install needed
+nmap
+re ; built-in, no install needed
+tabulate
+colorama
+termcolor
