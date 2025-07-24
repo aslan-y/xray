@@ -8,6 +8,7 @@
 <body>
     <header>
         <h1>Xray - Your Network Toolkit</h1>
+        <img src="https://raw.githubusercontent.com/aslan-y/xray/refs/heads/main/xray-icon.ico" alt="Icon">
     </header>
     <main>
         <section id="overview">
